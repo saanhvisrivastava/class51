@@ -1,0 +1,37 @@
+
+*{
+    border:dotted
+  
+}
+h1{
+    color:blueviolet
+}
+.header{
+    background-color: #7fffd4;
+    display: flex;
+    justify-content: space-between
+}
+.grid{
+    background-color: #7fff00;
+    
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: #6a5acd;
+    display:flex;
+    justify-content:flex-end;
+}
+.grid p{
+    text-align:center;
+    color:#e00809;
+}
+.subhead{
+    background-color: #2e8257;
+    color:#ff00aa;
+    text-align:center;
+}
+body{
+    background-color:#808080;
+}
